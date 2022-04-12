@@ -30,14 +30,14 @@ npm install
 ```
 
 
-## In order to run the application in developer mode, Type the following command
+### In order to run the application in developer mode, Type the following command
 
 ```bash
 npm run dev
 ```
 
 
-## In order to run the application in production mode, Type the following command
+### In order to run the application in production mode, Type the following command
 
 ```bash
 npm run build
