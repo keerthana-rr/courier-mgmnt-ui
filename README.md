@@ -29,22 +29,19 @@ Install all the npm packages. Go into the project folder and type the following 
 npm install
 ```
 
-<<<<<<< HEAD
-In order to run the application, Type the following command
-=======
-In order to run the application in developer mode, Type the following command
+
+**In order to run the application in developer mode, Type the following command
 
 ```bash
 npm run dev
 ```
 
 
-In order to run the application in production mode, Type the following command
+**In order to run the application in production mode, Type the following command
 
 ```bash
 npm run build
 ```
->>>>>>> 1001d7e (Added UI Template)
 
 ```bash
 npm start
